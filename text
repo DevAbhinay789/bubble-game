@@ -1,0 +1,16 @@
+// var a =document.querySelector("#bulb")
+// //a.innerHTML = "changed html"
+// // a.style.color = "red"
+// // a.style.backgvar btn = document.querySelector("button")
+// //roundColor = "black"
+// var flag=0
+
+//  btn.addEventListener("click",function(){
+//   if(flag==0){
+//   bulb.style.backgroundColor = "yellow"
+//   flag=1}
+//   else{
+//      bulb.style.backgroundColor = "transparent"
+//   flag=0
+ 
+//   }
